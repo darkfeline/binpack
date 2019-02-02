@@ -15,7 +15,7 @@
 // Command binpack is a Go generator for packing static assets into Go
 // packages.
 //
-// For example, if you have file base.html in your package containing:
+// For example, if you have a file base.html in your package containing:
 //
 //   <html><body>{{.body}}</body></html>
 //
