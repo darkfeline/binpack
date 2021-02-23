@@ -1,5 +1,7 @@
 # binpack
 
+Deprecated: Go 1.16 has native support for embedded files.
+
 Command binpack is a Go generator for packing static assets into Go
 packages.
 

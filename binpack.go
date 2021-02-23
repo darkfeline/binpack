@@ -15,6 +15,8 @@
 // Command binpack is a Go generator for packing static assets into Go
 // packages.
 //
+// Deprecated: Go 1.16 has native support for embedded files
+//
 // For example, if you have a file base.html in your package containing:
 //
 //   <html><body>{{.body}}</body></html>
